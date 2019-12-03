@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PerimetroCircunferencia",
+            "request": "launch",
+            "mainClass": "PerimetroCircunferencia",
+            "projectName": "practicasjava_73cff4fb"
+        }
+    ]
+}
